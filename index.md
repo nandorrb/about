@@ -1,38 +1,35 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: CV Fernando Rubio
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+# Fernando Rubio Burga
+Bachiller Ing. Mecatronico
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:ben@blm.io">nando.rrb.00@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
-</div>
+<i class="fa fa-github"></i> <a href="http://github.com/nandorrb">nandorrb</a>
 
-
-## Currently
+## Presentacion
 
 I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
 
-## Employment
+## Empleos
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+`2016-2017` 
+__Instituto Pacifico SAC__ Ingeniero Analista programador mobil
 
-## Education
+`2016` 
+__GB proyectos EIRL__ Ingeniero Analista programador
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2015-2016` 
+__SEW Eurodrive del Peru__ Asesor Tecnico comercial
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+## Educacion
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`2010-15`
+__Universidad Nacional de Ingenieria__ Ingenieria Mecatronica
+
 
 ## Presentations
 
@@ -71,7 +68,7 @@ _Genome informatics_ (CSHL NY, USA)
 _EpiGeneSys_ (Cambridge, UK)
 
 
-## Publications
+## Publicaciones
 
 <!-- ### Journals -->
 `2017`
@@ -91,13 +88,13 @@ __Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha 
 `2011`
 Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
 
-## Non-academic
+## No-academico
 
 `2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
-## Technical skills
+## Habilidades Tecnicas
 
 * R
 * Statistics
@@ -115,7 +112,7 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 * HTML and CSS
 * Javascript
 
-## Projects
+## Proyectos
 
 ### blog
 
@@ -153,12 +150,8 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:nando.rrb.00@gmail.com">nando.rrb.00@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/nandorrb">nandorrb</a><br />
 
 ## References
 
@@ -166,4 +159,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2017 -->

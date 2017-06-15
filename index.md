@@ -38,27 +38,27 @@ __Universidad Nacional de Ingenieria__ Mehcatronics Engineering
 
 ## Technical skills
 
-* Android 
-  *Kotlin
-  *Java
-* Windows Applications 
+__ Android __
+  * Kotlin
+  * Java
+__ Windows Applications __
   * C# 
   * C++ 
   * C
-* Scientiffic programming languages
+__Scientiffic programming languages__
   * R
   * python
-* Web Frameworks
+__ Web Frameworks__
   * Django
-* Databases 
+__ Databases __
   * MySQL
   * SQLite
   * Winsows SQL server 2008
-* Electronics
+__Electronics__
   * PCB design using Eagle
   * Circuit Design
   * Microcontriollers programming
-* Industrial Instrumentation
+__ Industrial Instrumentation__
   * PLC programming
   * 
 

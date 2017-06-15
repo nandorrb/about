@@ -13,7 +13,7 @@ Bachelor Mechatronic Engineer
 
 ## Presentacion
 
-I'm an Mechatronics engineer of [National University of Engineering (UNI)](www.uni.edu.pe/). 
+I'm an Mechatronics engineer of [National University of Engineering (UNI)](http://www.uni.edu.pe/). 
 Iv'e got experience in instrumentation, frequency inverters, PLC, scada, DAQ.
 As an Engineer, I'm capable of designing databases, lead IT projects, and make them on time.
 At this time Iv'e created two tech companies.

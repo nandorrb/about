@@ -7,8 +7,9 @@ Bachiller Ing. Mecatronico
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">nando.rrb.00@gmail.com</a>
-|
 <i class="fa fa-github"></i> <a href="http://github.com/nandorrb">nandorrb</a>
+
+|
 
 ## Presentacion
 

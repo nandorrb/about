@@ -6,7 +6,7 @@ title: CV Fernando Rubio
 Bachelor Mechatronic Engineer
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">nando.rrb.00@gmail.com</a>
+<a href="mailto:nando.rrb.00@gmail.com">nando.rrb.00@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/nandorrb">nandorrb</a>
 </div>
@@ -22,7 +22,7 @@ At this time Iv'e created two tech companies.
 
 `2016-2017` 
 __Instituto Pacifico SAC__ Semi-Senior mobile Software Engineer
-* Android/IOS [application developing using kotlin, on Android Studio](mecatronica.pe/desarrollo_de_aplicaciones)
+* Android/IOS [application developing using kotlin, on Android Studio](http://mecatronica.pe/desarrollo_de_aplicaciones)
 
 `2016` 
 __GB proyectos EIRL__ Junior Software Engineer

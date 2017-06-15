@@ -22,6 +22,7 @@ At this time Iv'e created two tech companies.
 
 `2016-2017` 
 __Instituto Pacifico SAC__ Semi-Senior mobile Software Engineer
+> aaaaa
 
 `2016` 
 __GB proyectos EIRL__ Junior Software Engineer

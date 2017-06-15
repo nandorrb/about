@@ -12,31 +12,31 @@ Bachiller Ing. Mecatronico
 
 ## Presentacion
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm an Mechatronics engineer of [National University of Engineering (UNI)](www.uni.edu.pe/). 
+Iv'e got experience in instrumentation, frequency inverters, PLC, scada, DAQ.
+As an Engineer, I'm capable of designing databases, lead IT projects, and make them on time.
+At this time Iv'e created two tech companies.
 
-## Empleos
+## Employment
 
 `2016-2017` 
-__Instituto Pacifico SAC__ Ingeniero Analista programador mobil
+__Instituto Pacifico SAC__ Semi-Senior mobile Software Engineer
 
 `2016` 
-__GB proyectos EIRL__ Ingeniero Analista programador
+__GB proyectos EIRL__ Junior Software Engineer
 
 `2015-2016` 
-__SEW Eurodrive del Peru__ Asesor Tecnico comercial
+__SEW Eurodrive del Peru__ Commercial technical advisor
 
 ## Educacion
 
 `2010-15`
-__Universidad Nacional de Ingenieria__ Ingenieria Mecatronica
+__Universidad Nacional de Ingenieria__ Mehcatronics Engineering
 
 
 ## Presentations
 
-### Tutorials
 
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
 
 ### Talks
 
@@ -94,7 +94,7 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
-## Habilidades Tecnicas
+## Technical skills
 
 * R
 * Statistics
@@ -112,7 +112,10 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 * HTML and CSS
 * Javascript
 
-## Proyectos
+## Android Hability
+
+
+## Proyects
 
 ### blog
 
@@ -152,6 +155,7 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 
 * <i class="fa fa-envelope"></i> <a href="mailto:nando.rrb.00@gmail.com">nando.rrb.00@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/nandorrb">nandorrb</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://pe.linkedin.com/in/fernando-rubio">nandorrb</a><br />
 
 ## References
 

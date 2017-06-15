@@ -3,7 +3,7 @@ layout: cv
 title: CV Fernando Rubio
 ---
 # Fernando Rubio Burga
-Bachiller Ing. Mecatronico
+Bachelor Mechatronic Engineer
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">nando.rrb.00@gmail.com</a>

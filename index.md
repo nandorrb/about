@@ -59,6 +59,7 @@ __Universidad Nacional de Ingenieria__ Mehcatronics Engineering
 * <i class="fa fa-envelope"></i> <a href="mailto:nando.rrb.00@gmail.com">nando.rrb.00@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/nandorrb">nandorrb</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://pe.linkedin.com/in/fernando-rubio">nandorrb</a><br />
+* <i class="fa fa-mobile"></i> <a href="+51 964484111">Phone Number</a><br />
 
 ## References
 

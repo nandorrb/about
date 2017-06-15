@@ -22,7 +22,7 @@ At this time Iv'e created two tech companies.
 
 `2016-2017` 
 __Instituto Pacifico SAC__ Semi-Senior mobile Software Engineer
-* Android/IOS [application developing using kotlin, on Android Studio](http://mecatronica.pe/desarrollo_de_aplicaciones)
+* Android/IOS [application developing using kotlin, on Android Studio](http://nandorrb.github.io/desarrollo_de_aplicaciones)
 
 `2016` 
 __GB proyectos EIRL__ Junior Software Engineer
